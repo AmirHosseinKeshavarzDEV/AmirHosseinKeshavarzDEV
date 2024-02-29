@@ -1,4 +1,4 @@
-<img src="[https://tenor.com/view/sad-cat-sunakook-tired-exhausted-gif-24687868](https://tenor.com/view/sad-cat-sunakook-tired-exhausted-gif-24687868)">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWlhYTljem1zZHNrMzc5dm41cHRybHhkejFoNHppaThydGtrd2lydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ISpDZGqCDxET72/giphy.gif">
 <h1 align="center">Hi Friends 👋</h1>
 <p align="left">- 🌱 I’m currently learning HTML/CSS</p>
 <p align="left">- 💬 Ask me about HTML/CSS</p>
