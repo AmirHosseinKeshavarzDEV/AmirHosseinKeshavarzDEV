@@ -1,5 +1,4 @@
-<img 
-align="center" src="https://tenor.com/view/sad-cat-sunakook-tired-exhausted-gif-24687868">
+<img src="[https://tenor.com/view/sad-cat-sunakook-tired-exhausted-gif-24687868](https://tenor.com/view/sad-cat-sunakook-tired-exhausted-gif-24687868)">
 <h1 align="center">Hi Friends 👋</h1>
 <p align="left">- 🌱 I’m currently learning HTML/CSS</p>
 <p align="left">- 💬 Ask me about HTML/CSS</p>
