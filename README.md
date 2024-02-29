@@ -1,5 +1,5 @@
 <img 
-align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRiZXE3YTN5ZDg1NmFldGg4b2R4ZWplNGR2ajByd3E1b3ZwcW9laiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NMlmbDwu9eeg8/giphy.gif">
+align="center" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRiZXE3YTN5ZDg1NmFldGg4b2R4ZWplNGR2ajByd3E1b3ZwcW9laiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NMlmbDwu9eeg8/giphy.gif](https://media.giphy.com/media/3og0ISpDZGqCDxET72/giphy.gif)">
 <h1 align="center">- Hi Friends 👋</h1>
 <p align="left">- 🌱 I’m currently learning HTML/CSS</p>
 <p align="left">- 💬 Ask me about HTML/CSS</p>
