@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWlhYTljem1zZHNrMzc5dm41cHRybHhkejFoNHppaThydGtrd2lydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ISpDZGqCDxET72/giphy.gif">
+<img src="https://thepics.top/images/4234.gif">
 <h1 align="center">Hi Friends 👋</h1>
 <p align="left">- 🌱 I’m currently learning HTML/CSS</p>
 <p align="left">- 💬 Ask me about HTML/CSS</p>
