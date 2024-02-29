@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:150%;position:relative;"><iframe src="https://giphy.com/embed/NMlmbDwu9eeg8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/water-beautiful-NMlmbDwu9eeg8">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRiZXE3YTN5ZDg1NmFldGg4b2R4ZWplNGR2ajByd3E1b3ZwcW9laiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NMlmbDwu9eeg8/giphy.gif">
 <h1> Hi Friends 👋</h1>
 <p>🌱 I’m currently learning at megademy</p>
 <p>💬 Ask me about HTML/CSS</p>
