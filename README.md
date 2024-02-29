@@ -1,4 +1,4 @@
-<img style="width: 1000px;" src="https://thepics.top/images/4244.gif">
+<img style="width: 700px;" src="https://thepics.top/images/4244.gif">
 <h1 align="center">Hi Friends 👋</h1>
 <p align="left">- 🌱 I’m currently learning HTML/CSS</p>
 <p align="left">- 💬 Ask me about HTML/CSS</p>
