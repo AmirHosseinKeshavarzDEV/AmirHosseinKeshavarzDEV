@@ -7,7 +7,6 @@
 <p align="left">
 <a href="https://instagram.com/amir._.hk18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webportal.ir" height="30" width="40" /></a>
 </p>
-<p align="left">
     <a
         href="https://www.linkedin.com/in/amir-hossein-keshavarz-b2829524b"
         target="blank"
