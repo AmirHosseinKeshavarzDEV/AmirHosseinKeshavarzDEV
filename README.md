@@ -9,7 +9,7 @@
 </p>
 <p align="left">
     <a
-        href="https://linkedin.com/in/https://www.linkedin.com/in/majid-kargar-994b642a6"
+        href="https://www.linkedin.com/in/amir-hossein-keshavarz-b2829524b"
         target="blank"
         ><img
             align="center"
