@@ -14,7 +14,7 @@
         ><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/amir-hossein-keshavarz-b2829524b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+            alt="https://www.linkedin.com/in/amir-hossein-keshavarz-b2829524b"
             height="30"
             width="40"
     /></a>
