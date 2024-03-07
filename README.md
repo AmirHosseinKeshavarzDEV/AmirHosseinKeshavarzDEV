@@ -15,6 +15,14 @@
             height="30"
             width="40"
     /></a>
+    <a href="https://twitter.com/fulcain_code" target="blank"
+        ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="fulcain_code"
+            height="30"
+            width="40"
+    /></a>
 <h2 align="left">I code with</h2>
 
 ###
