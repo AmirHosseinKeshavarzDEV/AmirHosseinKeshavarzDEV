@@ -19,7 +19,6 @@
 <a href="https://linkedin.com/in/amirhosseinkeshavarz-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-hossein-keshavarz-b2829524b" height="30" width="40" /></a>
 <a href="https://instagram.com/amir._.hk18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amir._.hk18" height="30" width="40" /></a>
 </p>
-[![](https://visitcount.itsvg.in/api?id=AmirHosseinKeshavarzDEV&icon=5&color=6)](https://visitcount.itsvg.in)]
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
@@ -27,4 +26,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=AmirHosseinKeshavarzDEV&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AmirHosseinKeshavarzDEV&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinKeshavarzDEV&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=AmirHosseinKeshavarzDEV&icon=5&color=6)](https://visitcount.itsvg.in)
+
 [![](https://visitcount.itsvg.in/api?id=AmirHosseinKeshavarzDEV&icon=5&color=6)](https://visitcount.itsvg.in)
