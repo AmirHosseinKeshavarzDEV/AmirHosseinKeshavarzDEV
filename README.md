@@ -27,4 +27,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=AmirHosseinKeshavarzDEV&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AmirHosseinKeshavarzDEV&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinKeshavarzDEV&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+[![](https://visitcount.itsvg.in/api?id=AmirHosseinKeshavarzDEV&icon=5&color=6)](https://visitcount.itsvg.in)
