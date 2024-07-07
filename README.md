@@ -1,4 +1,4 @@
-<img style="width: 900px;" src="http://uupload.ir/files/vavf_fd961ad7-494c-4e25-8735-db6a3cd2e3c5.gif">
+<script src="https://gist.github.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a.js"></script>
 <h1 align="center">Hi 👋, I'm Amir Hossein</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
