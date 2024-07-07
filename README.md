@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/duck-h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="duck-h" height="30" width="40" /></a>
-  <a href="https://meta.stackexchange.com/users/1546234/amr-ho3en" target="blank"
+  <a href="https://stackoverflow.com/users/24865854/amr-ho3en" target="blank"
         ><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
